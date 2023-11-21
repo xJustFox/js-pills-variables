@@ -46,3 +46,15 @@ else{
     comparison = y;
 }
 console.log(comparison);
+
+// Esercizio 2 
+let a = "string";
+let b = "string";
+let comparison_string;
+if (a == b) {
+    comparison_string = "Le stringhe sono uguali";
+} else {
+    comparison_string = "Le stringhe sono diverse";
+}
+
+console.log(comparison_string);
