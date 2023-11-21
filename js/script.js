@@ -31,3 +31,18 @@ console.log(greet);
 // Esercizio 4/C
 greet = greet + "Come stai?";
 console.log(greet)
+
+
+// Secondo blocco di esercizi
+
+// Esercizio 1
+let x = 5;
+let y = 10;
+let comparison = "";
+if (x>y) {
+    comparison = x;
+} 
+else{
+    comparison = y;
+}
+console.log(comparison);
