@@ -58,3 +58,13 @@ if (a == b) {
 }
 
 console.log(comparison_string);
+
+// Esercizio 3
+let num = 5;
+let comparison_3 = false;
+
+if (num == "5") {
+    comparison_3 = true;
+}
+
+console.log(comparison_3);
