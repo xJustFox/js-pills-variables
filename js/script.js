@@ -1,7 +1,9 @@
+console.log("----------- Esercizio 1 ------------");
 // Esercizio 1
 let number = 100;
 console.log(number);
 
+console.log("----------- Esercizio 2 ------------");
 // Esercizio 2
 const PI = 3.1416;
 console.log(PI);
@@ -10,16 +12,19 @@ console.log(PI);
 // ERRORE: PI = 3.14;
 // console.log(PI);
 
+console.log("----------- Esercizio 2/C ------------");
 // Esercizio 2/C
 let radius = 8;
 let circle = radius * 2 * PI;
 console.log(circle);
 
+console.log("----------- Esercizio 3 ------------");
 // Esercizio 3
 let name = "Carlo";
 name = "Marco";
 console.log(name);
 
+console.log("----------- Esercizio 4 ------------");
 // Esercizio 4
 let greet = "Ciao, Mondo!";
 console.log(greet);
@@ -28,13 +33,15 @@ console.log(greet);
 // let greet = "Come stai, Mondo?";
 // console.log(greet);
 
+console.log("----------- Esercizio 4/C ------------");
 // Esercizio 4/C
 greet = greet + "Come stai?";
 console.log(greet)
 
-
+console.log("----------- Secondo blocco di esercizi ------------");
 // Secondo blocco di esercizi
 
+console.log("----------- Esercizio 1 ------------");
 // Esercizio 1
 let x = 5;
 let y = 10;
@@ -47,6 +54,7 @@ else{
 }
 console.log(comparison);
 
+console.log("----------- Esercizio 2 ------------");
 // Esercizio 2 
 let a = "string";
 let b = "string";
@@ -59,6 +67,7 @@ if (a == b) {
 
 console.log(comparison_string);
 
+console.log("----------- Esercizio 3 ------------");
 // Esercizio 3
 let num = 5;
 let comparison_3 = false;
@@ -68,3 +77,21 @@ if (num == "5") {
 }
 
 console.log(comparison_3);
+
+
+// Terzo blocco di esercizi
+
+console.log("----------- Esercizio 1/A ------------");
+
+// Esercizio 1/A
+for (let i = 1; i <= 42; i++) {
+    console.log(i)
+    
+}
+
+console.log("----------- Esercizio 1/B ------------");
+// Esercizio 1/B
+for (let i = 42; i>= 1; i--) {
+    console.log(i)
+    
+}
