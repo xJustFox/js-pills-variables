@@ -38,9 +38,12 @@ Assegna alla variabile `comparison` il risultato del confronto tra due stringhe 
 Assegna alla variabile `comparison` il risultato del confronto tra un numero e una stringa (che rappresenta un numero) per verificare se sono uguali. Stampa sulla console il valore di `comparison`
 
 <!-- Terzo blocco di esercizi -->
-
 **Esercizio 1/A**  
 Scrivi un *ciclo for* che stampi i numeri interi da 1 a 42 (compresi)  
 
 **Esercizio 1/B**  
 Ora riscrivi il *ciclo for* in modo che stampi i numeri interi da 42 a 1 
+
+<!-- Terzo blocco di esercizi -->
+**Esercizio 1/A**  
+Definisci un array contenente 8 numeri interi e memorizzalo nella costante `numbers` 
