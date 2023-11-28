@@ -44,7 +44,7 @@ Scrivi un *ciclo for* che stampi i numeri interi da 1 a 42 (compresi)
 **Esercizio 1/B**  
 Ora riscrivi il *ciclo for* in modo che stampi i numeri interi da 42 a 1 
 
-<!-- Terzo blocco di esercizi -->
+<!-- Quarto blocco di esercizi -->
 **Esercizio 1/A**  
 Definisci un array contenente 8 numeri interi e memorizzalo nella costante `numbers` 
 
@@ -56,3 +56,17 @@ mela, banana, pesca, pera, albicocca, mango, kiwi, papaya
 
 **Esercizio 1/C**  
 Stampa in console il numero di elementi che costituiscono l'array `fruits`
+
+<!-- Quinto blocco di esercizi -->
+
+**Esercizio 1/A**
+Definire una funzione che stampi la stringa 'Ciao Mondo'
+
+**Esercizio 1/B**
+Richiamare la funzione definita prima
+
+**Esercizio 2/A**
+Definire una funzione che accetti due numeri in input, ne faccia la somma e la restituisca 
+
+**Esercizio 2/A**
+Chiamare la funzione che esegue la somma, assegnare il valore che restituisce ad una variabile e mostrare il risultato

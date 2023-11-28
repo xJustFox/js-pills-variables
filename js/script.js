@@ -79,10 +79,9 @@ if (num == "5") {
 console.log(comparison_3);
 
 
-// Terzo blocco di esercizi
+// Quarto blocco di esercizi
 
 console.log("----------- Esercizio 1/A ------------");
-
 // Esercizio 1/A
 for (let i = 1; i <= 42; i++) {
     console.log(i)
@@ -96,16 +95,41 @@ for (let i = 42; i>= 1; i--) {
     
 }
 
-// Quarto blocco esercizi
+// Quinto blocco esercizi
 
 console.log("----------- Esercizio 1/A ------------");
 // Esercizio 1/A
 const numbers = [1, 2, 3, 4, 5, 6, 7, 8];
 console.log(numbers);
 
+console.log("----------- Esercizio 1/B ------------");
 // Esercizio 1/B
 const fruits = ["mela", "banana", "pesca", "pera", "albicocca", "mango", "kiwi", "papaya"]
 console.log(fruits);
 
+console.log("----------- Esercizio 1/C ------------");
 // Esercizio 1/C
 console.log(fruits.length);
+
+// Quarto blocco esercizi
+
+console.log("----------- Esercizio 1/A ------------");
+// Esercizio 1/A
+function helloWorld() {
+    alert("Hello World");
+}
+
+console.log("----------- Esercizio 1/B ------------");
+// Esercizio 1/B
+helloWorld();
+
+console.log("----------- Esercizio 2/A ------------");
+// Esercizio 2/A
+function sumNum(num1, num2) {
+    return num1 + num2;
+}
+
+console.log("----------- Esercizio 2/B ------------");
+// Esercizio 2/B
+sum = sumNum(20, 14);
+console.log(sum);
