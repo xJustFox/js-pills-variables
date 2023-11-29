@@ -79,7 +79,7 @@ if (num == "5") {
 console.log(comparison_3);
 
 
-// Quarto blocco di esercizi
+// Terzo blocco di esercizi
 
 console.log("----------- Esercizio 1/A ------------");
 // Esercizio 1/A
@@ -95,7 +95,7 @@ for (let i = 42; i>= 1; i--) {
     
 }
 
-// Quinto blocco esercizi
+// Quarto blocco esercizi
 
 console.log("----------- Esercizio 1/A ------------");
 // Esercizio 1/A
@@ -111,7 +111,7 @@ console.log("----------- Esercizio 1/C ------------");
 // Esercizio 1/C
 console.log(fruits.length);
 
-// Quarto blocco esercizi
+// Quinto blocco esercizi
 
 console.log("----------- Esercizio 1/A ------------");
 // Esercizio 1/A
@@ -133,3 +133,16 @@ console.log("----------- Esercizio 2/B ------------");
 // Esercizio 2/B
 sum = sumNum(20, 14);
 console.log(sum);
+
+// Sesto blocco esercizi
+
+console.log("----------- Esercizio 1/A ------------");
+// Esercizio 1/A
+function getOneStringFromTwo(string1, string2) {
+    return `${string1}  ${string2}`;
+}
+
+console.log("----------- Esercizio 1/B ------------");
+// Esercizio 1/B
+getOneStringFromTwo("Hello", "World");
+console.log(getOneStringFromTwo("Hello", "World"));
