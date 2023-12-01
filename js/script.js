@@ -146,3 +146,18 @@ console.log("----------- Esercizio 1/B ------------");
 // Esercizio 1/B
 getOneStringFromTwo("Hello", "World");
 console.log(getOneStringFromTwo("Hello", "World"));
+
+// Settimo blocco esercizi
+
+console.log("----------- Esercizio 1/A ------------");
+// Esercizio 1/A
+setTimeout(function(){
+    alert("Ciao a tutti")
+}, 3000);
+
+console.log("----------- Esercizio 2/A ------------");
+// Esercizio 2/A
+let time = 0;
+setInterval(function(){
+    console.log(time++);
+}, 1000);
