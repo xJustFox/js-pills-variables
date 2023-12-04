@@ -161,3 +161,14 @@ let time = 0;
 setInterval(function(){
     console.log(time++);
 }, 1000);
+
+console.log("----------- Esercizio 1/A ------------");
+// Esercizio 1/A
+let persona = {
+    name: "Pippo",
+    surname: "Franco"
+}
+
+console.log("----------- Esercizio 1/B ------------");
+// Esercizio 1/B
+console.log(persona.name);
